@@ -16,9 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package com.shengtu.yunjihome.bean.cache;
 
-import org.litepal.crud.DataSupport;
 
 public class NetCacheBean extends DataSupport {
 
