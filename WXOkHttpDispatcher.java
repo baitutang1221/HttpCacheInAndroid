@@ -1,21 +1,3 @@
-package com.shengtu.yunjihome.net.weex;
-
-import android.os.Handler;
-import android.os.HandlerThread;
-import android.os.Looper;
-import android.os.Message;
-
-import com.shengtu.yunjihome.bean.cache.NetCacheBean;
-import com.squareup.okhttp.Headers;
-import com.squareup.okhttp.OkHttpClient;
-import com.squareup.okhttp.Request;
-import com.squareup.okhttp.Response;
-import com.taobao.weex.utils.SDKCacheManager;
-
-import org.litepal.crud.DataSupport;
-
-import java.util.List;
-import java.util.concurrent.TimeUnit;
 
 public class WXOkHttpDispatcher {
 
