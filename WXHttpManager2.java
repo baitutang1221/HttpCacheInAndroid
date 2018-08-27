@@ -1,10 +1,3 @@
-package com.shengtu.yunjihome.net.weex.cacheDir;
-
-import android.os.Handler;
-import android.os.Message;
-
-import com.shengtu.yunjihome.net.weex.WXHttpResponse;
-import com.shengtu.yunjihome.net.weex.WXHttpTask;
 
 
 public class WXHttpManager2 {
