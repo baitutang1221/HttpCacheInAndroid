@@ -1,5 +1,3 @@
-package com.shengtu.yunjihome.net.weex;
-
 
 public class WXHttpTask {
 
