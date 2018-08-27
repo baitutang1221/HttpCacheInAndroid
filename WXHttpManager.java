@@ -1,10 +1,3 @@
-package com.shengtu.yunjihome.net.weex;
-
-import android.os.Handler;
-import android.os.Message;
-import android.widget.Toast;
-
-import com.shengtu.yunjihome.LYApplication;
 
 public class WXHttpManager {
 
